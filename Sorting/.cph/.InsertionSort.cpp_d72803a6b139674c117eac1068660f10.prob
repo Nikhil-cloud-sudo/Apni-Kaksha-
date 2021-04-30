@@ -1,0 +1,1 @@
+{"name":"Local: InsertionSort","url":"/Users/nikhilpatel/Desktop/Apni Kaksha/Sorting/InsertionSort.cpp","tests":[{"id":1608731227310,"input":"5\n12 45 23 51 19\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/nikhilpatel/Desktop/Apni Kaksha/Sorting/InsertionSort.cpp","group":"local","local":true}
